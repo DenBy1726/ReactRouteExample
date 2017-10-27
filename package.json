@@ -1,0 +1,11 @@
+{
+  "name": "webpackapp",
+  "description": "A React.js project using Webpack",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "devDependencies": {
+    "lite-server": "^2.2.2"
+  }
+}
